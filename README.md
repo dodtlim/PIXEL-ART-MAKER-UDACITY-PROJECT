@@ -7,7 +7,7 @@
 
 ## Instructions
 
-use this link to load the page "https://dodtlim.github.io/project-pixel-art-maker-starter/"
+use this link to load the page "https://dodtlim.github.io/PIXEL-ART-MAKER-UDACITY-PROJECT/"
 
 Input a number in the width and height, then press submit button
 
